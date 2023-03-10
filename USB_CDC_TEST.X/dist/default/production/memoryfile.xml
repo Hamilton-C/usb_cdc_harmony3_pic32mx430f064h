@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/USB_CDC_TEST.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>73216</length>                 
+      <used>19472</used>                     
+      <free>53744</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>1488</used>                     
+      <free>14896</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
